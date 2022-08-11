@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/vincentgaga/vincentgaga.github.io</id>
+    <title>Vincent GaGa</title>
+    <updated>2022-08-11T00:16:52.917Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/vincentgaga/vincentgaga.github.io"/>
+    <link rel="self" href="https://github.com/vincentgaga/vincentgaga.github.io/atom.xml"/>
+    <subtitle>无人会这一世站原地，如若想飞更不可泄气</subtitle>
+    <logo>https://github.com/vincentgaga/vincentgaga.github.io/images/avatar.png</logo>
+    <icon>https://github.com/vincentgaga/vincentgaga.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Vincent GaGa</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://github.com/vincentgaga/vincentgaga.github.io/post/test/</id>
+        <link href="https://github.com/vincentgaga/vincentgaga.github.io/post/test/">
+        </link>
+        <updated>2022-08-10T11:21:16.000Z</updated>
+        <content type="html"><![CDATA[<p>无人会这一世站原地，如若想飞更不可泄气</p>
+]]></content>
+    </entry>
+</feed>
